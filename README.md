@@ -1,7 +1,7 @@
 # 💻 Welcome to Khalid's Github Page!
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/526a21a4-7f9a-4b2e-84b9-239359d43950" width="500" height="auto" alt="Awesome GIF" />
+  <img src="https://i.pinimg.com/originals/38/78/af/3878af3ee5751ff2fe561465cd32099c.gif" width="520" height="auto" alt="Awesome GIF" />
 </div>
 
 ## 💫 About Me
