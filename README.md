@@ -5,99 +5,52 @@
 </div>
 
 ## 💫 About Me
-<img align="right" width="33%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OntarioTech_primary_2019.svg/1199px-OntarioTech_primary_2019.svg.png">
 
-**Hi, I'm Khalid Hossain! I am currently a student at Ontario Tech University pursuing a degree in Software Engineering. I'm passionate about technology and always eager to explore new ideas, acquire new skills, and contribute to impactful projects.**
+I'm **Khalid Hossain**, a Software Engineering student at **Ontario Tech**.
 
-## 🔧 Skills & Technologies
-**Programming Languages**: Java, Python, C++, JavaScript, HTML, CSS, PHP, MySQL  
-**Frameworks & Libraries**: React, Node.js, JUnit  
-**Development Environments**: Visual Studio Code, IntelliJ IDEA, Eclipse  
-**Testing & Debugging**: CI/CD & Testing, Automated Testing  
-**Engineering & Design Tools**: MATLAB, AutoCAD, SolidWorks, TinkerCAD, Arduino  
-**Operating Systems**: Linux/UNIX, Windows  
-**Relevant Courses**: Data Structures & Algorithms, Object Oriented Programming & Design, Web Programming
+For me, "it works" has never really been enough. I want to know what's happening underneath, what tradeoffs were made, and why things ended up the way they did. That's what you'll see in the projects here. Not just things I got running, but things I cared enough to understand.
 
-## 
+## 🛠️ Tech Stack
+
+**Languages:** Java, Python, C++, JavaScript, TypeScript, HTML, CSS, PHP, SQL  
+**Frontend:** React, Next.js, Tailwind CSS, responsive UI design  
+**Backend:** Node.js, FastAPI, REST APIs, database-backed apps  
+**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Figma, Linux, Windows  
+**Foundations:** Data Structures and Algorithms, Object-Oriented Programming, Web Development, Testing, CI/CD
+
+<br />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,react,next,nodejs,tailwind,php,mysql,fastapi,git,github,vscode,figma,linux,windows&perline=10" alt="Tech stack icons" />
+</p>
+
+## 🚀 Projects
+
+**[HikeWise](https://hikewise-v2.vercel.app)** · `React` `TypeScript` `Mapbox`  
+Trail difficulty visualizer with GPX upload, 3D maps, and weather-aware route segments.
+
+**[PostedIn](https://postedin-v2.vercel.app)** · `Next.js` `OpenAI`  
+LinkedIn-style writing assistant with live preview, draft history, and plain-English refinement.
+
+**[SceneSense](https://scenesense.vercel.app)** · `Next.js` `Python` `FastAPI`  
+Mood-aware movie recommender that learns your taste through feedback over time.
+
+**[FriendFinder](https://youtu.be/-OV0D6llraw)** · `Java` `Fabric`  
+Minecraft mod for multiplayer navigation with minimap, waypoints, and ping beacons.
+
+**[QuickMail](https://github.com/KhalidHossainGitHub/QuickMail)** · `Chrome Extension` `OpenAI`  
+AI email drafts inside Gmail's compose window. Thread-aware, no backend required.
+
+## 🌐 Connect
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="30" alt="windows11 logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-</div>
-
-## 💼 Projects
-📸 **Gesture-Based Virtual Drawing Application | *Python, OpenCV***
-- Developed a virtual painting tool that enables users to draw on a digital canvas using finger tracking via webcam
-
-🤖 **AI-Generated Quiz Application | *React, Node.js, OpenAI API***
--	Created a quiz application that generates questions from text summaries and evaluates users on the content
-
-📋 **Task Management: To-Do List Application | *JavaScript, HTML/CSS, PHP, MySQL***
--	Designed a task management application, enabling users to effortlessly add, remove and store tasks
-
-🏪 **E-Commerce: Convenience Store | *JavaScript, HTML/CSS, PHP, MySQL***
--	Designed a fully customized convenience store, tailored to specific customer products and preferences
-
-💯 **Grade Calculator: Academic Performance Tracker | *JavaScript, HTML/CSS***
-- Constructed a course grade calculator to assist students in calculating their final grades
-
-## 🌱 Current Learnings
-[🍀] **Taking a full-stack development course to build responsive, dynamic websites using JavaScript, Node.js, and React.**
-
-[🌿] **Exploring AI and machine learning fundamentals, with a primary focus on utilizing the OpenAI API for projects.**
-
-[☘️] **Designing and implementing my portfolio website to showcase my skills and projects.**
-
-## 🚀 Goals
-1. 🎟️ **Attend Technology Events**: Participate in more technology-oriented events, such as hackathons and tech meetups, to network with industry professionals and enhance practical skills.
-
-2. 🏢 **Secure an Internship or Co-op Position**: Obtain a valuable internship or co-op position in the field of software engineering to gain experience and contribute to real-world projects.
-
-3. 🚧 **Build a Personal Portfolio**: Create a personal portfolio website showcasing projects, achievements, and skills to improve visibility to potential employers and companies.
-
-## 🌐 Socials
-<div align="center">
-  <a href="https://www.linkedin.com/in/KhalidHossainConnect/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="mailto:itskhalidhossain@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://discordapp.com/users/chqrus"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" /></a>
+  <a href="https://www.linkedin.com/in/KhalidHossainConnect/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:itskhalidhossain@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://discordapp.com/users/chqrus">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
+  </a>
 </div>
